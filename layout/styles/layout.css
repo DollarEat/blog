@@ -499,3 +499,7 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.6rem;}
 	.font-x3{font-size:1.8rem;}
 }
+/* Dollar potho
+--------------------------------------------------------------------------------------------------------------- */
+.photo{float:left;width:20%}
+.intro{float:right;width:80%}
